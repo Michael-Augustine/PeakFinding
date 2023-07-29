@@ -26,3 +26,6 @@ We create a plot to visualize the normalized power values against the correspond
 Finally, we print out the peak data for each identified peak. This includes the peak wavelength, normalized peak power value, and FWHM. These details provide essential insights into the characteristics of each peak.
 
 Overall, this analysis gives a clear and comprehensive view of the Gaussian spectra, identifying peaks and their associated properties.
+
+###Sample Dataset 
+![image](https://github.com/Michael-Augustine/PeakFinding/assets/88915387/b852e513-e3bc-4470-8b10-41bd1e1da4f2)
